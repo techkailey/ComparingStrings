@@ -7,6 +7,9 @@ The output prints that the two tests ran successfully. Look at Example1.
 - The main method defines 4 strings and compares them. The output is either a -1, 1, or 0. 
 -1 = left string is smaller, 1 = right string is greater, 0 = equal. Look at Example2
 
+- To run tester, enter java org.junit.runner.JUnitCore Tester
+in the command line. 
+
 - In addition, four strings are added to the ArrayList in main and the final output represents, the minimum value in the array. 4 of the comparisons. Look at Example2
 
 ## Example1:
